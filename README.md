@@ -3,7 +3,11 @@
     
   ## Description
   * This application is designed to allow a user to create or select a vehicle inside a command-line interface.  The will be able to perform actions with the selected or created vehicle and it will be displayed inside the command-line interface. 
-    
+  
+  ## Video Demo
+
+  [Video Demo](https://drive.google.com/file/d/116He2pXVc7cpCo97_R6rdRxctxGX-2gX/view)
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
